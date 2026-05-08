@@ -3,10 +3,10 @@
 
 ---
 
-> **Disusun oleh:** Mahasiswa S2 Magister Teknik Informatika, UNPAM  
+> **Disusun oleh:** Haryanto, Mahasiswa S2 Magister Teknik Informatika, UNPAM  
 > **Mata Kuliah:** Advanced Intelligent System (AIS)  
 > **Tujuan:** Bahan kajian literatur untuk analisis kebijakan publik berbasis AI  
-> **Versi:** 1.0 | Mei 2026
+> **Versi:** 1.0 | 8 Mei 2026
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 1. Abstrak <a name="abstrak"></a>
 
-Sentiment analysis berbasis kecerdasan buatan (AI) dari data media sosial telah berkembang pesat sebagai metode pengukuran opini publik. Namun demikian, pertanyaan mendasar terus mengemuka: apakah sentimen yang diukur AI dari media sosial benar-benar mencerminkan opini publik yang autentik, ataukah sekadar artefak dari noise digital, akun bot, dan operasi buzzer yang terkoordinasi? Review paper ini mengkaji tiga kelompok literatur ilmiah bereputasi tinggi (Q1/Q2) yang secara langsung mengangkat persoalan ini: (1) validasi makroskopi sentimen media sosial terhadap survei nyata, (2) dampak bot/buzzer terhadap distorsi sentimen, dan (3) evaluasi perbandingan metode AI untuk analisis sentimen kebijakan publik. Temuan menunjukkan bahwa AI untuk sentiment analysis *tetap relevan* jika diterapkan dengan metodologi yang tepat, namun memerlukan lapisan validasi, deteksi bot, dan triangulasi lintas sumber. Review ini memberikan rekomendasi praktis bagi calon fungsional analis kebijakan yang ingin memanfaatkan AI sebagai alat bantu pengukuran sentimen publik.
+Review ini disusun atas pertanyaan dalam benak dan hasil diskusi dengan dosen, Bpk. Dr. Arya, "apakah penggunaan AI dalam Sentiment Analysis terutama di sosial media masih relevan di tengah maraknya buzzer?". Sentiment analysis berbasis kecerdasan buatan (AI) dari data media sosial telah berkembang pesat sebagai metode pengukuran opini publik. Namun demikian, pertanyaan mendasar terus mengemuka: apakah sentimen yang diukur AI dari media sosial benar-benar mencerminkan opini publik yang autentik, ataukah sekadar artefak dari noise digital, akun bot, dan operasi buzzer yang terkoordinasi? Review paper ini mengkaji tiga kelompok literatur ilmiah bereputasi tinggi (Q1/Q2) yang secara langsung mengangkat persoalan ini: (1) validasi makroskopi sentimen media sosial terhadap survei nyata, (2) dampak bot/buzzer terhadap distorsi sentimen, dan (3) evaluasi perbandingan metode AI untuk analisis sentimen kebijakan publik. Temuan menunjukkan bahwa AI untuk sentiment analysis *tetap relevan* jika diterapkan dengan metodologi yang tepat, namun memerlukan lapisan validasi, deteksi bot, dan triangulasi lintas sumber. Review ini memberikan rekomendasi praktis bagi calon fungsional analis kebijakan yang ingin memanfaatkan AI sebagai alat bantu pengukuran sentimen publik.
 
 **Kata kunci:** Sentiment Analysis, AI, Media Sosial, Bot, Buzzer, Validitas, Kebijakan Publik, NLP, LLM
 
